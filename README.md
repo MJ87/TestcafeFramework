@@ -28,3 +28,5 @@ npm run filtermeta --browsers=edge --filename=Modules/*.js  --key=Env --value=QA
 npm run runner filename=Modules/*.js env=Staging testmeta=Env,Production
 npm run runner filename=Modules/*.js env=Staging testmeta=Env,QA
 
+After running any of the above command one Cucumber report will generate and opened automatically and that html report is stored in reports folder.
+
