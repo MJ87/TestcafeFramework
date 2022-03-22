@@ -10,7 +10,6 @@ To set this project Please follow below instructions:
 2. Open terminal in VSCode and run command git clone https://github.com/manwantjotgill/TestcafeFramework.git
 3. Run npm install commands to have the node_modules folder in project and download all dependencies from package.json
 4. Run below commands to Tests:
-5. 
 **********We can run below commands with desired filename,Browser and other params******************** 
 npm run test --filename=Modules/GitHubTests.js
 npm run test --filename=Modules/TestCafeFeatures.js
